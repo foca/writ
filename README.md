@@ -1,5 +1,7 @@
 # Writ: A minimal command pattern implementation
 
+[![Build Status](https://img.shields.io/travis/foca/writ.svg)](https://travis-ci.org/foca/writ) [![RubyGem](https://img.shields.io/gem/v/writ.svg)](https://rubygems.org/gems/writ)
+
 > **writ**, _noun_:<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a form of written command in the name of a court or other legal authority to act, or abstain from acting, in some way.
 
